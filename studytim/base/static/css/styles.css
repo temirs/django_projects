@@ -1,0 +1,7 @@
+body{ font-family: Verdana;}
+h3{color:green;}
+
+.home-container{
+        display: grid;
+        grid-template-columns: 1fr 3fr;
+    }
